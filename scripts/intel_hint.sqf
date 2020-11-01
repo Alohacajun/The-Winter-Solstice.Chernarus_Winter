@@ -1,0 +1,2 @@
+hint parseText 
+"<br/><t size='1.25'color='#EB1E73'>Intel</t><t size='1.25'> has just been discovered.<br/>Access it via the map <t color='#09E85E'>[</t>Default M<t color='#09E85E'>]</t>.<br/><br/>Additional details regarding <t size='1.25'color='#EB1E73' align='left' valign='middle'>Intel</t><br/>can be accessed through the ACE self-interact menu while viewing the map <t color='#09E85E'>[</t>Default ctrl+win<t color='#09E85E'>]</t>";

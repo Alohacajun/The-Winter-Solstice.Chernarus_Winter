@@ -1,0 +1,25 @@
+author			   = "Krieve";
+onLoadName		   = "The Winter Solstice- Act 1";
+onLoadMission 	   = "It's dark...";
+respawnTemplates[] = {"MenuPosition"};
+//loadScreen		= "images\loadScreen.paa"; //Should be 1024x512px
+
+class Header
+{
+	gameType =  Survival;	// Game type
+	minPlayers =  1;	// minimum number of players the mission supports
+	maxPlayers = 12;	// maximum number of players the mission supports
+}
+class CfgHints
+{
+	class Intel
+	{
+		class ViewingIntel
+		{
+			displayName = "Reviewing Intel";
+			description = "<br/><t size='1.25'color='#EB1E73'>Intel</t> has just been discovered. <br/>Check it via ACE interaction [<t color= '#26F776'>Ctrl</t>+<t color= '#26F776'>Win</t>] while viewing the map.<br/>";
+			image = "pictures\folder_icon.paa"
+			dlc = 0;
+		};
+	};
+};
