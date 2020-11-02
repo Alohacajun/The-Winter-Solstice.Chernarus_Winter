@@ -1,0 +1,9 @@
+- DSA Debug Enabled
+- Zeus ACRE2 voicechat
+- Ghost spawn script not working (MP)'
+- Rendezvous task not-existent
+- Rendezvous
+- Not enough snow
+- Place anomalies
+- ACE3 Medical needs to be faster
+- AN-PBS14 PTV
